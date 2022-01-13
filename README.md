@@ -3,4 +3,4 @@
 
 # Задание №1
 
-# WorkWithNumbers
+# Work with numbers / Работа с числами
